@@ -1,0 +1,8 @@
+{
+  "ComPort":"COM6",
+  "Game": "PUBG",
+  "PlaySongMessage": "/çal",
+  "SelectSongMessage": "/şarkıseç",
+  "StopSongMessage": "/dur",
+  "Token": "YOUR TOKEN"
+}
